@@ -1,6 +1,6 @@
 {
   "name": "map-each-pipe",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple RxJS pipe to map each element of an array emitted by an observable.",
   "author": "Camil Bisson",
   "main": "dist/index.js",
