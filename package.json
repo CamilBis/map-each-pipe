@@ -1,0 +1,30 @@
+{
+  "name": "map-each-pipe",
+  "version": "1.0.0",
+  "description": "A simple RxJS pipe to map each element of an array emitted by an observable.",
+  "author": "Camil Bisson",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CamilBis/map-each-pipe.git"
+  },
+  "keywords": [
+    "rxjs",
+    "typescript",
+    "map",
+    "pipe",
+    "observable"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.4.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
